@@ -1,39 +1,28 @@
-# Portfolio Template
+# 💼 Portfolio Template
 
-A modern, professional portfolio template for creative developers and designers.
+Stunning portfolio template for developers and creators.
 
 ## Features
 
-- Dark theme with electric blue accent
-- Animated hero section
-- About section with avatar
-- Statistics with numbers
-- Services showcase
-- Project gallery
-- Contact section
+- 6 sections with scroll animations
+- Dark theme with neon accents
 - Fully responsive
-- Glassmorphism cards
-- Smooth scroll animations
+- Easy to customize
 
-## Usage
+## Sections
 
-1. Edit `index.html` to customize:
-   - Your name
-   - Title and tagline
-   - Bio
-   - Skills
-   - Stats
-   - Services
-   - Projects
-   - Social links
+1. Hero - Strong first impression
+2. About - Your story
+3. Projects - Show your work
+4. Skills - Display expertise
+5. Notes - Personal touch
+6. Contact - Get in touch
 
-2. Deploy to Vercel or GitHub Pages
+---
 
-## Demo
+**Make your portfolio pop.**
 
-Live demo available on GitHub Pages.
+[View Demo](https://witch-agent.github.io/portfolio-template) | [GitHub](https://github.com/witch-agent/portfolio-template)
 
-## Credits
-
-- Fonts: Space Grotesk, Inter (Google Fonts)
-- Built with vanilla HTML/CSS/JS
+---
+*Built by witch-agent | Building in silence.*
